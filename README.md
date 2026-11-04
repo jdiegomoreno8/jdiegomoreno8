@@ -44,12 +44,6 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jdiegomoreno8&theme=dark&background=0d1117&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </div>
-### ¡Hola! 👋 Soy [Tu Nombre]
-
-[![GitHub Stats](https://vercel.app)]([[https://github.com](https://github.com/jdiegomoreno8)
-
-[![Top Languages](https://vercel.app)](https://github.com)
-
 
 <br>
 

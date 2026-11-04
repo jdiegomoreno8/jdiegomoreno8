@@ -1,72 +1,75 @@
-<h1 align="center">Hi 👋, I'm Diego Moreno</h1>
-<h3 align="center">Full-Stack Developer</h3>
-
-<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=jdiegomoreno8-pw&label=Profile%20views&color=0e75b6&style=flat"
-    alt="adam-pw" /> 
-  </p>
-
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
-
-
-- 🌱 Full-stack developer with over 3 years of experience in building dynamic web applications. Passionate about delivering efficient, scalable solutions with a focus on user experience.
-
-- 📫 How to reach me **jdiegomoreno8@gmail.com**
-
-- ⚡ Fun fact :- The term "bug" originated from a moth that caused a malfunction in the Mark III computer in 1947. This moment is a key piece of computer history.
+<div align="center">
+  <img src="https://github.com/jdiegomoreno8/jdiegomoreno8/blob/main/Captura%20de%20pantalla%202026-11-04%20143509.png" alt="Banner de Diego Moreno" width="100%" style="border-radius: 15px; margin-bottom: 20px;" />
+</div>
 <br>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="www.linkedin.com/in/jdiegomoreno8" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="jdiegomoreno8" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/profile/jdiegomoreno8" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-      alt="jdiegomoreno8" height="30" width="40" /></a>
-</p>
+<table align="center" style="border: none;">
+  <tr style="border: none;">
+    <td width="60%" style="border: none;">
+      <ul>
+        <li>🌱 Full-stack developer with over 3 years of experience building scalable web applications and management systems.</li>
+        <li>🤖 Currently focused on mastering Playwright automation natively with TypeScript and developing cross-platform AI agents.</li>
+        <li>🏍️ Beyond code, I enjoy 2D game development, motorcycling, and exploring anime lore.</li>
+        <li>📫 How to reach me: <strong>jdiegomoreno8@gmail.com</strong></li>
+      </ul>
+    </td>
+    
+  </tr>
+</table>
 
-<br>
-<br>
+<div align="center">
+  <h3>Connect with me:</h3>
+  <a href="https://www.linkedin.com/in/jdiegomoreno8" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/jdiegomoreno8" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
+  </a>
+</div>
 
-## :computer: Technologies I Love
-* .NET
-* Javascript
-* MySQL
-* Frontend and Backend Web Development
-<h3>Statistical Data :-</h3>
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=jdiegomoreno8&layout=compact">
 <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jdiegomoreno8&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="jdiegomoreno8" /></p>
-      
-## Programming Languages
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/c-original.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/cpp.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/bootstrap.svg' width='33'/>
- <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='30'/>
- 
- ## Who am I?
- ```Angular
- class WhoAmI:
- 	user = 'Diego Moreno'
-	current_edu = "Open and Distance University - UNAD - Colombia"
-	hobbies = [
-	'Gaming',
-	'Watching Anime',
-	'Reading Novels'
-	'Programming'
- ]
-	
-	def getCity():
-		return Itaguí_Colombia()
-	
-	def Ambitions():
-    GrowAsAProfessional()
-		LearnEnglishA1()
-		CreateSkyNet()
-		FinishMyNovel()
-	 ;)
-	
- ```
+## 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jdiegomoreno8&theme=dark&background=0d1117&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+</div>
 
- -------
-Credits: [MarikIshtar007](https://github.com/MarikIshtar007) , [Adam-pw](https://github.com/Adam-pw)
+<br>
 
-Last Edited on: 19/03/2025
+## 🕵️‍♂️ Who am I?
+```csharp
+class Developer
+{
+    public string Name = "Diego Moreno";   
+    public string Education = "Open and Distance University - UNAD - Colombia";
+    
+    public string[] Hobbies = 
+    { 
+        "Motorcycling", 
+        "Watching Anime", 
+        "Game Development", 
+        "Programming" 
+    };
+
+    public string GetLocation()
+    {
+        return "Itagüí, Antioquia, Colombia";
+    }
+
+    public void Ambitions()
+    {
+        ImproveEnglishProficiency();
+        MasterPlaywrightAutomation();
+        ScaleCrossPlatformAIAgents();
+        DevelopTopDown2DGame();
+    }
+}
+```
+<br>
+
+## 💻 Technologies & Tools
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github,cs,dotnet,angular,ts,nodejs,mysql,vscode,powershell,git,aws,azure,bash,bootstrap,css,django,docker,eclipse,express,fastapi,firebase,gitlab,html,js,kubernetes,linux,mongodb,nestjs,nextjs,npm,perl,pnpm,postgres,postman,py,rabbitmq,react,redhat,spring,sqlite,stackoverflow,sublime,selenium,tailwind,ubuntu,visualstudio,vscode,vue,windows,yarn" alt="Tech Stack" />
+  </a>
+</div>
+
